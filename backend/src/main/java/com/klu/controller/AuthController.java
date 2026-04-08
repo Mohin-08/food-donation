@@ -50,3 +50,6 @@ public class AuthController {
 		return ResponseEntity.ok(user);
 	}
 }
+
+// JWT authentication logic implemented here
+// Added for better readability
